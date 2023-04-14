@@ -16,7 +16,7 @@ The data used in this visualization was sourced from the <b>Office of Foreign La
 2) Clone the repository to your local machine using git clone https://github.com/visheshgupta-BA/Analysis-of-Labour-Condition-Applications-of-H1B-Visas
 3) Download and extract the data file to the data/ directory.
 4) Install Tableau on your machine if you haven't already.
-5) Open Tableau and open the h1b-lca-applications-tableau.twb file from the repository.
+5) Open Tableau and open the H1B-Applications-LCA-2022-Q4-tableau.twb file from the repository.
 <br>
 
 ## Usage
